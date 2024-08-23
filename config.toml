@@ -49,4 +49,4 @@ arch = "arm64-v8a"
 [Lightroom Photo & Video Editor]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 arch = "arm64-v8a"
-
+version = "9.4.3"
