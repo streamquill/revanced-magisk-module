@@ -2,7 +2,7 @@ reddit.news: 10.2.40
 Instagram: 346.0.0.45.104  
 Messenger: 473.0.0.35.110  
 Tiktok: 32.5.3  
-LightroomPhoto&VideoEditor: 9.4.3  
+GooglePhotos: 6.97.0.667654211  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
