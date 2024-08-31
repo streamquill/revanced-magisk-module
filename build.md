@@ -1,6 +1,6 @@
 reddit.news: 10.2.40  
+Instagram: 346.1.0.46.104  
 Messenger: 473.1.0.45.110  
-Instagram: 346.0.0.45.104  
 Tiktok: 32.5.3  
 GooglePhotos: 6.97.0.667654211  
 
