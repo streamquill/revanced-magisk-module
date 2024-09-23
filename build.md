@@ -1,7 +1,7 @@
 reddit.news: 10.2.40  
-Messenger: 476.1.0.47.109  
 Instagram: 349.3.0.42.104  
-Tiktok: 32.5.3  
+Messenger: 476.1.0.47.109  
+Tiktok: 36.5.4  
 GooglePhotos: 7.0.0.674947721  
 LightroomPhoto&VideoEditor: 9.4.3  
 
@@ -11,6 +11,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.14.1.apk  
-Patches: ReVanced/revanced-patches-4.14.1.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.14.1)  
+Integrations: ReVanced/revanced-integrations-1.14.2.apk  
+Patches: ReVanced/revanced-patches-4.15.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.15.0)  
