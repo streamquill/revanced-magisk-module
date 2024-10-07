@@ -1,6 +1,6 @@
 reddit.news: 10.2.40  
-Messenger: 478.0.0.47.115  
 Instagram: 351.1.0.42.106  
+Messenger: 478.0.0.47.115  
 Tiktok: 36.5.4  
 GooglePhotos: 7.2.0.680709391  
 
