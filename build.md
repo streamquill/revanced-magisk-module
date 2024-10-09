@@ -1,8 +1,8 @@
 reddit.news: 10.2.40  
-Instagram: 352.0.0.32.100  
 Messenger: 478.0.0.47.115  
+Instagram: 352.0.0.38.100  
 Tiktok: 36.5.4  
-GooglePhotos: 7.2.0.680709391  
+GooglePhotos: 7.3.0.682956182  
 LightroomPhoto&VideoEditor: 9.4.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
