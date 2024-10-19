@@ -1,6 +1,6 @@
 reddit.news: 10.2.40  
 Messenger: 480.0.0.52.95  
-GooglePhotos: 7.4.0.686952741  
+GooglePhotos: 7.4.0.687342855  
 Tiktok: 36.5.4  
 LightroomPhoto&VideoEditor: 9.4.3  
 
